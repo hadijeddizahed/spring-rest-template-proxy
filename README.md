@@ -1,3 +1,3 @@
 # spring-rest-template-proxy
 
-## How set proxy for spring restTemplate? 
+## How to set proxy for spring restTemplate? 
